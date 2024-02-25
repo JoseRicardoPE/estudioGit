@@ -6,6 +6,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  font-size: 1rem;
 }
 
 .content {
@@ -41,6 +42,7 @@ body {
 }
 .main-content .main-title {
   margin-bottom: 20px;
+  font-size: 32px;
 }
 .main-content .content-figure {
   width: 100px;
@@ -50,6 +52,7 @@ body {
 .main-content .img {
   display: block;
   width: 100%;
+  cursor: pointer;
 }
 .main-content .content-text {
   margin-bottom: 20px;
